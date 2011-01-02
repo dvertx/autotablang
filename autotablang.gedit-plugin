@@ -1,0 +1,11 @@
+[Gedit Plugin]
+Loader=python
+Module=autotablanguage
+IAge=2
+Name=Auto Tab by Language
+Description=Modifies tab setting automatically in current document in regard to each language setting.
+Authors=Hertatijanto Hartono <dvertx@gmail.com>
+Copyright=Copyright © 2011 Hertatijanto Hartono
+Website=http://sites.google.com/site/dvertx
+Version=1.0
+

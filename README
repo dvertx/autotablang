@@ -1,0 +1,23 @@
+INTRO
+=====
+
+Auto Tab by Language is a gedit plugin, which modifies tab setting within
+currently viewed document by language categories that are recognized by gedit.
+This plugin tries to provide programmers with automatic tab settings when
+certain document types are being viewed and edited. Programmers who writes
+codes in several programming languages might find this useful, since they can
+configure the tab setting to suit the indenting style they want for each
+programming language.
+
+
+HOWTO
+=====
+1. Download plugin: http://sites.google.com/site/dvertx/autotablang/autotablang.tgz
+2. Extract into $HOME/.gnome2/gedit/plugins
+3. Enable plugin in gedit by selecting 'Auto Tab by Language' under Edit->Preferences->Plugins menu
+4. Configure tab setting for each language
+
+
+Hertatijanto Hartono
+<dvertx AT SPAMFREE gmail DOT com>
+
